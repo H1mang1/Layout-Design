@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&family=Roboto+Condensed:ital,wght@1,100&family=Roboto:ital,wght@1,500&family=Rubik+Doodle+Shadow&family=Sacramento&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Ole&family=Protest+Revolution&family=Roboto+Condensed:ital,wght@1,100&family=Roboto:ital,wght@1,500&family=Rubik+Doodle+Shadow&family=Sacramento&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    position: sticky;
+    top:0;
+}
+nav{
+    background-color: pink;
+}
+ul{
+    list-style-type: none;
+    
+}
+li{
+    display: inline-block;
+    padding: 20px;
+}
+ul li a{
+    text-decoration: none;
+    font-size: 21px;
+    color: rgb(120, 93, 51);
+    font-family: 'Protest Revolution', sans-serif;
+}
+main{
+    background-color: black;
+    padding: 5px;
+}
+.container{
+    background-color: rgba(27, 180, 83, 0.549);
+    margin:12px 15px;
+    text-align: center;
+    padding: 12px;
+    
+}
+.card1{
+    height: 500px;
+    width:45%;
+    margin:12px;
+    box-sizing: border-box;
+    background-color: rgb(231, 138, 231);
+    display: inline-block;
+
+}
+.card2{
+    height: 500px;
+    width:45%;
+    margin:12px;
+    box-sizing: border-box;
+    background-color:blue;
+    display: inline-block;
+
+}
+.boxc{
+    
+    padding-left:245px;
+    padding-top: 45px;
+    
+}
+
+.box{
+    height: 200px;
+    width:80%;
+    background-color: rgb(134, 134, 225);
+    padding:70px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 45px;
+    font-family: "Ole",cursive;
+    border-radius: 50px;
+}
+.circle{
+    height:45px;
+    width:45px;
+    margin-left:85% ;
+    background-color: brown;
+    border-radius: 45px;
+    position: sticky;
+}
+footer{
+    background-color: rgb(233, 202, 202);
+    height:100px;
+    width:100%;
+    position: fixed;
+}
+
+
+
+  
+
+
+
+
